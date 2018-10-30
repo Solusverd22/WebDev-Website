@@ -16,7 +16,7 @@ nav {
     text-decoration: none;
 }
 
-.selected-nav {
+#selected-nav {
     background: gray;
 }
 
