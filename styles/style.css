@@ -1,8 +1,8 @@
 html {
     background-image: url('../img/star_background.jpg');
     background-position-x: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-size: auto;
+    background-repeat: repeat;
     color: white;
     font-family: 'Raleway', sans-serif;
     text-align: center;
@@ -17,7 +17,8 @@ nav {
 }
 
 #selected-nav {
-    background: gray;
+    background: rgb(46, 46, 46);
+    color: white;
 }
 
 nav a {
