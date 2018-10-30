@@ -5,6 +5,7 @@ html {
     background-repeat: no-repeat;
     color: white;
     font-family: 'Raleway', sans-serif;
+    text-align: center;
 }
 
 nav {
@@ -13,6 +14,10 @@ nav {
     grid-gap: 15px;
     list-style-type: none;
     text-decoration: none;
+}
+
+.selected-nav {
+    background: gray;
 }
 
 nav a {
